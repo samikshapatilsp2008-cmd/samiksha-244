@@ -1,0 +1,45 @@
+experimentnozpy >
+
+a-10
+
+#relational operators
+
+ b-70
+
+ c=a+b
+
+ print("Addition =",c)
+
+ a-16
+
+ b-16.5
+
+ c="python"
+
+ d-True
+
+print(type(a))
+
+ print(type(b))
+
+ print(type(c))
+
+print(type(d))
+
+a-"10"
+
+ beint (a)
+
+print(b)
+
+ print(type(b))
+
+a-10
+
+ b-20
+
+ print(a<b and b>5)
+
+print(a>b or b>5)
+
+print (not (a>b))
