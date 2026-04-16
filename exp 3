@@ -1,0 +1,9 @@
+str_1 = input("Enter a string: ")
+
+result = ""
+
+for a in range(len(str_1)):
+    if a % 2 == 0:
+        result = result + str_1[a]
+
+print("Result =", result)
